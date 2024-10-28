@@ -14,6 +14,6 @@ I’m a computer science student interested in software development, full-stack 
 
 ## Get in touch:
 - GitHub: [theekshana-git](https://github.com/theekshana-git)
-- LinkedIn: [Gimhan Theekshana](https://linkedin.com/in/your-profile)
+- LinkedIn: [Gimhan Theekshana](https://www.linkedin.com/in/gimhan-theekshana-87b004264)
 
 **Fun fact:** I love solving problems! 🙂
