@@ -3,8 +3,8 @@
 I’m a computer science student interested in software development, full-stack development, AI, and learning new technologies. I’m currently learning full-stack development.
 
 ## Technologies I work with:
-- HTML, CSS, JavaScript, Bootstrap, WordPress
-- Python, C, SQL
+- HTML, CSS, JavaScript, PHP, Bootstrap, WordPress
+- Python, C, C#, SQL
 - Git, GitHub
 
 ## My Goals:
