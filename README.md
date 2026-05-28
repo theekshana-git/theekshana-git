@@ -1,31 +1,31 @@
-# Hi, I’m Gimhan Theekshana! 👋
+# Hi, I’m Gimhan Theekshana 👋
 
-I’m a Software Engineer and Computer Science student passionate about building scalable, multi-tier systems. From architecting enterprise-level web applications to programming hardware for edge-computing IoT devices, I love tackling complex problems across the entire technology stack. 
+I’m a Full-Stack Software Engineer and Computer Science student focused on building scalable, multi-tier systems. From developing cross-platform mobile trackers to programming edge-computing IoT devices, I thrive on tackling complex engineering challenges across the entire technology stack.
 
-Currently, I am focused on full-stack development, cross-platform mobile engineering, and data-driven solutions.
+## 🚀 Current Focus & Recent Highlights
+* **Cloud & Serverless:** Expanding my expertise in MERN stack architecture and automated CI/CD deployments (Vercel).
+* **Software Quality Assurance:** Integrating rigorous defect triage methodologies and testing frameworks into my development lifecycle. 
+* **Open to Opportunities:** Actively seeking a Software Development Internship to apply my full-stack engineering and problem-solving skills in a fast-paced production environment.
 
-## 🛠️ Technologies & Tools
-- **Languages:** C#, Dart, Python, C++, SQL, JavaScript
-- **Frameworks & SDKs:** .NET 8 (ASP.NET Core MVC), Flutter, Python Flask, Entity Framework Core
-- **Databases:** Microsoft SQL Server, SQLite, Firebase (Firestore & Realtime DB)
-- **Architecture & Concepts:** REST APIs, SOLID Principles, Object-Relational Mapping (ORM), Role-Based Access Control (RBAC), State Management
-- **Hardware & Advanced Tech:** IoT (ESP32), Edge Computing, Google ML Kit (OCR)
-- **Testing & DevOps:** xUnit, Moq, Git, GitHub
+## 🛠️ The Tech Arsenal
+- **Frontend:** React, Flutter, HTML/CSS, JavaScript
+- **Backend & APIs:** Node.js, Express.js, .NET 8 (C# ASP.NET Core MVC), Python (Flask)
+- **Databases:** MongoDB Atlas, Microsoft SQL Server, SQLite, Firebase (Firestore & Realtime DB)
+- **Cloud & DevOps:** Vercel, Git/GitHub, CI/CD pipelines, REST API Design
+- **Hardware & Advanced:** IoT (ESP32), Edge Computing, Google ML Kit (OCR)
+- **Testing & SQA:** xUnit, Moq, Defect Triage methodologies, Postman
 
-## 🚀 What I've Been Building
-Here are a few highlights of my recent work:
-- **[Blind-Match PAS](https://github.com/theekshana-git/PAS-BlindMatch):** A secure, bias-free Project Approval System built on **.NET 8 MVC** and SQL Server, featuring strict state-machine logic and 100% verified code coverage using xUnit and Moq.
+## 🏆 Featured Engineering
+*Below is a curated selection of my work. Feel free to explore my repositories for a deeper dive into my other projects and experiments.*
+
+- **[Triage.sys - SQA Dashboard](https://triage-frontend-one.vercel.app):** A serverless, MERN-stack defect tracking dashboard. Features a custom REST API, MongoDB Atlas cloud integration, and a responsive dark-mode React UI. 
+- **[Blind-Match PAS](https://github.com/theekshana-git/PAS-BlindMatch):** A secure, bias-free Project Approval System built on **.NET 8 MVC** and SQL Server, featuring strict state-machine logic and 100% verified code coverage (xUnit/Moq).
 - **[BusLanka - Smart Transport Tracker](https://github.com/theekshana-git/BusLanka---Smart-Transport-Tracker.git):** A decentralized, real-time public transit tracking mobile app built with **Flutter** and **Firebase**, featuring live GPS telemetry and dynamic ETA calculations.
-- **[SmartSense - IoT Station](https://github.com/theekshana-git/SmartSense---IoT-Based-ENV-Monitoring-Station.git):** An **ESP32** edge-computing environmental monitor that calculates safety metrics locally, integrated with a **Python Flask** fog layer and cross-platform dashboards.
-- **[Smart Expense Intelligence](https://github.com/theekshana-git/Smart-Expense-Intelligence-App):** An offline-first, privacy-centric finance app built with Flutter and **SQLite**, utilizing on-device **Machine Learning (OCR)** and background SMS parsing for automated data entry.
+- **[SmartSense - IoT Station](https://github.com/theekshana-git/SmartSense---IoT-Based-ENV-Monitoring-Station.git):** An **ESP32** edge-computing environmental monitor calculating safety metrics locally, integrated with a **Python Flask** fog layer.
 
-## 🎯 My Current Goals
-- Architecting highly scalable, fault-tolerant software systems.
-- Deepening my expertise in cloud-native architectures and backend security.
-- Contributing to open-source projects.
-
-## 📫 Let's Connect!
+## 📫 Let's Connect
+Looking to collaborate or discuss scalable architecture? 
 - **LinkedIn:** [Gimhan Theekshana](https://www.linkedin.com/in/gimhan-theekshana-87b004264)
 - **GitHub:** [theekshana-git](https://github.com/theekshana-git)
 
-**Fun fact:** I love solving problems!🙂
+*Engineering philosophy: Build it secure, make it scalable, and never ignore the edge cases.*
