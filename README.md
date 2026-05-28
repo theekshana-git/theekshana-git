@@ -10,7 +10,7 @@ I’m a Full-Stack Software Engineer and Computer Science student focused on bui
 ## 🛠️ The Tech Arsenal
 - **Frontend:** React, Flutter, HTML/CSS, JavaScript
 - **Backend & APIs:** Node.js, Express.js, .NET 8 (C# ASP.NET Core MVC), Python (Flask)
-- **Databases:** MongoDB Atlas, Microsoft SQL Server, SQLite, Firebase (Firestore & Realtime DB)
+- **Databases:** MongoDB Atlas, Microsoft SQL Server, SQLite, Firebase (Firestore)
 - **Cloud & DevOps:** Vercel, Git/GitHub, CI/CD pipelines, REST API Design
 - **Hardware & Advanced:** IoT (ESP32), Edge Computing, Google ML Kit (OCR)
 - **Testing & SQA:** xUnit, Moq, Defect Triage methodologies, Postman
